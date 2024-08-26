@@ -1,0 +1,199 @@
+{
+	"textures": [
+		{
+			"image": "tombola-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1402,
+				"h": 1720
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tombola-01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 721,
+						"h": 880
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 699,
+						"h": 858
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 699,
+						"h": 858
+					}
+				},
+				{
+					"filename": "tombola-02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 721,
+						"h": 880
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 699,
+						"h": 858
+					},
+					"frame": {
+						"x": 1,
+						"y": 861,
+						"w": 699,
+						"h": 858
+					}
+				},
+				{
+					"filename": "tombola-03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 721,
+						"h": 880
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 699,
+						"h": 858
+					},
+					"frame": {
+						"x": 702,
+						"y": 1,
+						"w": 699,
+						"h": 858
+					}
+				},
+				{
+					"filename": "tombola-04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 721,
+						"h": 880
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 699,
+						"h": 858
+					},
+					"frame": {
+						"x": 702,
+						"y": 861,
+						"w": 699,
+						"h": 858
+					}
+				}
+			]
+		},
+		{
+			"image": "tombola-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1402,
+				"h": 1720
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tombola-05",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 721,
+						"h": 880
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 699,
+						"h": 858
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 699,
+						"h": 858
+					}
+				},
+				{
+					"filename": "tombola-06",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 721,
+						"h": 880
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 699,
+						"h": 858
+					},
+					"frame": {
+						"x": 1,
+						"y": 861,
+						"w": 699,
+						"h": 858
+					}
+				},
+				{
+					"filename": "tombola-07",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 721,
+						"h": 880
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 699,
+						"h": 858
+					},
+					"frame": {
+						"x": 702,
+						"y": 1,
+						"w": 699,
+						"h": 858
+					}
+				},
+				{
+					"filename": "tombola-08",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 721,
+						"h": 880
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 699,
+						"h": 858
+					},
+					"frame": {
+						"x": 702,
+						"y": 861,
+						"w": 699,
+						"h": 858
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2af68a5d2555b0ae05ee491b2c899b70:7beebe4344922075d487225dfb456da7:9d1cfc8a1586556ebca487ecb247cd5a$"
+	}
+}

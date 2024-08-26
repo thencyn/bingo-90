@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 984,
-				"h": 1844
+				"h": 1843
 			},
 			"scale": 1,
 			"frames": [
@@ -600,22 +600,22 @@
 				{
 					"filename": "caja-bolas",
 					"rotated": false,
-					"trimmed": true,
+					"trimmed": false,
 					"sourceSize": {
 						"w": 620,
-						"h": 500
+						"h": 490
 					},
 					"spriteSourceSize": {
 						"x": 0,
-						"y": 9,
+						"y": 0,
 						"w": 620,
-						"h": 491
+						"h": 490
 					},
 					"frame": {
 						"x": 1,
 						"y": 1015,
 						"w": 620,
-						"h": 491
+						"h": 490
 					}
 				},
 				{
@@ -634,7 +634,7 @@
 					},
 					"frame": {
 						"x": 1,
-						"y": 1508,
+						"y": 1507,
 						"w": 600,
 						"h": 335
 					}
@@ -697,7 +697,7 @@
 					},
 					"frame": {
 						"x": 603,
-						"y": 1508,
+						"y": 1507,
 						"w": 374,
 						"h": 96
 					}
@@ -718,7 +718,7 @@
 					},
 					"frame": {
 						"x": 603,
-						"y": 1606,
+						"y": 1605,
 						"w": 369,
 						"h": 101
 					}
@@ -739,7 +739,7 @@
 					},
 					"frame": {
 						"x": 603,
-						"y": 1709,
+						"y": 1708,
 						"w": 127,
 						"h": 128
 					}
@@ -802,7 +802,7 @@
 					},
 					"frame": {
 						"x": 732,
-						"y": 1709,
+						"y": 1708,
 						"w": 72,
 						"h": 97
 					}
@@ -823,7 +823,7 @@
 					},
 					"frame": {
 						"x": 732,
-						"y": 1808,
+						"y": 1807,
 						"w": 128,
 						"h": 16
 					}
@@ -844,7 +844,7 @@
 					},
 					"frame": {
 						"x": 732,
-						"y": 1826,
+						"y": 1825,
 						"w": 128,
 						"h": 16
 					}
@@ -865,7 +865,7 @@
 					},
 					"frame": {
 						"x": 806,
-						"y": 1709,
+						"y": 1708,
 						"w": 128,
 						"h": 62
 					}
@@ -876,6 +876,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:e19edab359ee051c23bec5a39e9397c8:ebf970176fdb64470682dfab22577f97:2db50c4a79ebc1bcbd9597afe4e693ea$"
+		"smartupdate": "$TexturePacker:SmartUpdate:359af74a3c1fad1188e318015e163cbd:cf8372a954f0a1217f27c0bf859525bd:2db50c4a79ebc1bcbd9597afe4e693ea$"
 	}
 }
