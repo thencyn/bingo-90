@@ -37,6 +37,10 @@
                 {
                     "key": "AtlasSpriteTombola",
                     "frame": "tombola-08"
+                },
+                {
+                    "key": "AtlasSpriteTombola",
+                    "frame": "tombola-09"
                 }
             ]
         }
